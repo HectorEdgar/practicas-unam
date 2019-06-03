@@ -1,0 +1,37 @@
+TODOS
+IMPLEMENTAR EL LOG DE CAMBIOS EN LAS TABLAS FALTANTES
+IMPLEMENTAR LOS ROLES EN LAS OPERACIONES
+
+
+
+EDGAR
+ACTUALIZAR EL DISEÑO DE TODOS LOS CRUD QUE LE HAGAN FALTA-Ed
+CORREGIR EL PAGINADOR DE LOS VINCULOS de documento y obras
+CORREGIR LA BUSQUEDA DE LOS VINCULOS de documento y obras
+
+
+
+
+YU BAN
+Al borrar un vinculo comprobar las relaciones y si no tiene borrar el elemento
+
+En lugares, agregar un ojito al detalle del documento
+documento
+obras
+grupos
+
+
+
+JAIR
+IMPLEMENTAR EL CODIGO QUE HIZO JAIR PARA EVITAR INSERTAR DUPLICADOS EN LAS TABLAS
+Invertir el orden de las tablas en detalle de documento-institución
+Mostrar los campos extra, de documento (ponencia, tesis, revista, libro)
+
+
+
+
+
+PENDIENTES
+Realizar el detalle de lugares-personas-obras-grupos (uno no se se si esta adentro :´v)
+Referencia bibliografica del documento
+
